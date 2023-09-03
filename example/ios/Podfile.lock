@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - YYEVA (1.1.16)
+  - yylive_plugin (0.0.1):
+    - Flutter
+    - YYEVA (= 1.1.16)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - yylive_plugin (from `.symlinks/plugins/yylive_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - YYEVA
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  yylive_plugin:
+    :path: ".symlinks/plugins/yylive_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  YYEVA: b95facbb0378a853e1be67dbaf51892d1fc5fd35
+  yylive_plugin: 163e79809d6270a547ff1f2dbd0aba3220ac950e
+
+PODFILE CHECKSUM: 663715e941f9adb426e33bf9376914006f9ea95b
+
+COCOAPODS: 1.12.1
